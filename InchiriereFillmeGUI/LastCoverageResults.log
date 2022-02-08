@@ -1,0 +1,21 @@
+[2021-05-11 12:38:34] [info] Start Program:
+Path:"D:\\Facultate\\Semestrul 2\\POO\\InchiriereFillmeGUI\\x64\\Debug\\InchiriereFillmeGUI.exe"
+Arguments:
+Working directory: "D:\\Facultate\\Semestrul 2\\POO\\InchiriereFillmeGUI\\InchiriereFillmeGUI\\"
+Modules: Selected: D:\Facultate\Semestrul 2\POO\InchiriereFillmeGUI\x64\Debug\InchiriereFillmeGUI.exe Excluded: 
+Sources: Selected: D:\Facultate\Semestrul 2\POO\InchiriereFillmeGUI\InchiriereFillmeGUI Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\rober\AppData\Local\Temp\lnv3cltq.a2v 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-11 12:38:34] [info] Module: D:\Facultate\Semestrul 2\POO\InchiriereFillmeGUI\x64\Debug\InchiriereFillmeGUI.exe is selected because it matches selected pattern: D:\Facultate\Semestrul 2\POO\InchiriereFillmeGUI\x64\Debug\InchiriereFillmeGUI.exe
+[2021-05-11 12:38:34] [info] ----------------------------------------------------
+[2021-05-11 12:38:34] [info] Coverage binary generated in file: C:\Users\rober\AppData\Local\Temp\lnv3cltq.a2v
+[2021-05-11 12:38:34] [info] ----------------------------------------------------
